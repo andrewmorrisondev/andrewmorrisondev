@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<h3>hi there 😏 im andy, a NYC based software engineer 🖥️</h3>
 
 <div>
   <h3>Proficiencies:</h3>
