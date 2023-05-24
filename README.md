@@ -32,7 +32,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=Trello&logoColor=white" /></a>
 </div>
-
+<br>
 <div align="center">
 
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewmorrisondev&count_private=true&show_icons=true&theme=transparent&hide=stars,issues&include_all_commits=true"></a>
