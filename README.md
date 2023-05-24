@@ -1,6 +1,6 @@
 <h3>hi there 😏 im andy, a NYC based software engineer 🖥️</h3>
 
-<div>
+<div align="center">
   <h3>Proficiencies:</h3>
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
@@ -32,5 +32,10 @@
   <a href="#"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=Trello&logoColor=white" /></a>
 </div>
+<div align="center">
 
-[![andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewmorrisondev&count_private=true&show_icons=true&theme=transparent)](https://github.com/andrewmorrisondev/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewmorrisondev&layout=donut&theme=transparent)](https://github.com/andrewmorrisondev/github-readme-stats)
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewmorrisondev&count_private=true&show_icons=true&theme=transparent&hide=stars,issues&include_all_commits=true"></a>
+
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewmorrisondev&layout=donut&theme=transparent"></a>
+
+</div>
