@@ -1,5 +1,5 @@
-<h3 align="center">hi there 😏 im andy, a NYC based software engineer 🖥️</h3>
-<p class="bio" align="center">
+<h2 align="center">hi there 😏 im andy, a NYC based software engineer 🖥️</h2>
+<h3 class="bio" align="center">
           You know, my journey to becoming a software engineer with a passion for finding unique solutions to complex problems has been quite remarkable. Before immersing myself in the world of code, I embarked on a diverse range of work experiences that have shaped who I am today.
           <br>
           <br>
@@ -7,7 +7,7 @@
           <br>
           <br>
           However, while my mixology skills and knack for fixing the occasional pesky bug bring me immense joy, my heart truly lies in the realm of music. Music, in all its mesmerizing forms, has always had a profound presence in my life. Whether it's my involvement as a board member and anchor tenor at <span class="bio-photo">The Westchester Choral Society</span>, lending my vocals as a session singer for the Queens-based rock band <span class="bio-photo">Astrogun</span>, or simply sitting at <span class="bio-photo">my piano</span>, losing myself in hours of spontaneous jam sessions, music ignites a fire within me like nothing else.
-        </p>
+        </h3>
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
