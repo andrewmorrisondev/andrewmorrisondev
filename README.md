@@ -35,8 +35,6 @@
 <br>
 <div align="center">
 
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewmorrisondev&count_private=true&show_icons=true&theme=transparent&hide=stars,issues&include_all_commits=true"></a>
-
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewmorrisondev&layout=donut&theme=transparent"></a>
 
 </div>
