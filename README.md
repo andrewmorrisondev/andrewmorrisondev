@@ -1,4 +1,13 @@
-<h3>hi there 😏 im andy, a NYC based software engineer 🖥️</h3>
+<h3 align="center">hi there 😏 im andy, a NYC based software engineer 🖥️</h3>
+<p class="bio" align="center">
+          You know, my journey to becoming a software engineer with a passion for finding unique solutions to complex problems has been quite remarkable. Before immersing myself in the world of code, I embarked on a diverse range of work experiences that have shaped who I am today.
+          <br>
+          <br>
+          Before code was everything, I was a bartender at pretty much the coolest, teeny tiniest little bar in NYC, <span class="bio-photo">Smith & Mills</span>. It was during my tenure there that I fell head over heels in love with oysters, <span class="bio-detail">gin martinis</span>, and engaging with my regular patrons, getting to know them on a personal level.
+          <br>
+          <br>
+          However, while my mixology skills and knack for fixing the occasional pesky bug bring me immense joy, my heart truly lies in the realm of music. Music, in all its mesmerizing forms, has always had a profound presence in my life. Whether it's my involvement as a board member and anchor tenor at <span class="bio-photo">The Westchester Choral Society</span>, lending my vocals as a session singer for the Queens-based rock band <span class="bio-photo">Astrogun</span>, or simply sitting at <span class="bio-photo">my piano</span>, losing myself in hours of spontaneous jam sessions, music ignites a fire within me like nothing else.
+        </p>
 
 <div align="center">
   <h3>Proficiencies:</h3>
