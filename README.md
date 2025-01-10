@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Andy 👋 – A NYC-based Software Engineer & Creator 🛠️🎶</h2> <h3 align="center"> From mixology to debugging, I’ve always had a knack for crafting memorable experiences, whether behind the bar or behind the keyboard. My journey from bartender at the charmingly unique Smith & Mills to a full-fledged software engineer has shaped me into a creative problem-solver with a human touch. </h3>
+<h2 align="center">Hi there, I'm andy 👋 – A NYC-based Software Engineer & Creator 🛠️🎶</h2> <h3 align="center"> From mixology to debugging, I’ve always had a knack for crafting memorable experiences, whether behind the bar or behind the keyboard. My journey from bartender at the charmingly unique Smith & Mills to a full-fledged software engineer has shaped me into a creative problem-solver with a human touch. </h3>
 
 🍸 A Spirited Beginning
 
