@@ -1,48 +1,26 @@
-<h2 align="center">hi there 😏 im andy, a NYC based software engineer 🖥️</h2>
-<h3 class="bio" align="center">
-          You know, my journey to becoming a software engineer with a passion for finding unique solutions to complex problems has been quite remarkable. Before immersing myself in the world of code, I embarked on a diverse range of work experiences that have shaped who I am today.
-          <br>
-          <br>
-          Before code was everything, I was a bartender at pretty much the coolest, teeny tiniest little bar in NYC, <span class="bio-photo">Smith & Mills</span>. It was during my tenure there that I fell head over heels in love with oysters, <span class="bio-detail">gin martinis</span>, and engaging with my regular patrons, getting to know them on a personal level.
-          <br>
-          <br>
-          However, while my mixology skills and knack for fixing the occasional pesky bug bring me immense joy, my heart truly lies in the realm of music. Music, in all its mesmerizing forms, has always had a profound presence in my life. Whether it's my involvement as a board member and anchor tenor at <span class="bio-photo">The Westchester Choral Society</span>, lending my vocals as a session singer for the Queens-based rock band <span class="bio-photo">Astrogun</span>, or simply sitting at <span class="bio-photo">my piano</span>, losing myself in hours of spontaneous jam sessions, music ignites a fire within me like nothing else.
-        </h3>
+<h2 align="center">Hi there, I'm Andy 👋 – A NYC-based Software Engineer & Creator 🛠️🎶</h2> <h3 align="center"> From mixology to debugging, I’ve always had a knack for crafting memorable experiences, whether behind the bar or behind the keyboard. My journey from bartender at the charmingly unique Smith & Mills to a full-fledged software engineer has shaped me into a creative problem-solver with a human touch. </h3>
+🍸 A Spirited Beginning
+Before diving into the world of tech, I honed my communication skills in the hospitality industry, where I mastered the art of connecting with people over oysters, gin martinis, and heartfelt conversations. This foundation has carried over into my tech career, where understanding user needs and building empathetic solutions are central to my work.
 
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Express.js-404D59?style=for-the-badge&logo=express" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Axios-0096FF?style=for-the-badge&logo=axios&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-RSpec-DC382D?style=for-the-badge&logo=ruby&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Capybara-FF4C39?style=for-the-badge&logo=capybara&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=Microsoft-Excel&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=Trello&logoColor=white" /></a>
-</div>
-<br>
-<div align="center">
+🎵 Fueled by Music
+Music isn’t just a passion—it’s a cornerstone of my life. Whether anchoring as a tenor for The Westchester Choral Society, recording with Astrogun, or improvising on my piano, music fuels my creativity and inspires my problem-solving approach.
 
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewmorrisondev&layout=donut&theme=transparent"></a>
+💻 Technical Toolkit
+I’ve built a versatile technical skill set that empowers me to bring ideas to life efficiently and effectively. Some highlights include:
 
-</div>
+Frontend: TypeScript, React, Redux, SCSS, Tailwind CSS
+Backend: Node.js, Express.js, Ruby on Rails
+Databases: PostgreSQL, MongoDB
+Testing & Debugging: RSpec, Jasmine, Capybara
+APIs & Tools: REST APIs, Postman, Axios, Git
+Other: SQL, Markdown, Notion, Trello, Slack
+
+🚀 What Drives Me
+I thrive on solving complex problems, simplifying the user experience, and making technology accessible to everyone. My experience spans developing scalable solutions, optimizing internal processes, and enhancing cross-team collaboration.
+
+🌟 Key Projects
+Financial Dashboard: Designed and implemented a personal dashboard leveraging Plaid’s API for real-time financial insights.
+Custom Website Builder: Developed a modular monorepo for reusable components, streamlining project deployments for diverse use cases.
+Beta Feature Development: Delivered impactful features for high-profile clients, including Netflix’s award-winning Bridgerton event.
+📫 Let’s Connect
+I’m always looking for ways to grow, collaborate, and create impactful solutions. Whether you’re here to chat about tech, music, or life in NYC, let’s connect!
