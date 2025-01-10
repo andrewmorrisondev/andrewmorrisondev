@@ -26,9 +26,9 @@ I thrive on solving complex problems, simplifying the user experience, and makin
 
 🌟 Key Projects
 
-Financial Dashboard: Designed and implemented a personal dashboard leveraging Plaid’s API for real-time financial insights.
-Custom Website Builder: Developed a modular monorepo for reusable components, streamlining project deployments for diverse use cases.
-Beta Feature Development: Delivered impactful features for high-profile clients, including Netflix’s award-winning Bridgerton event.
+**Custom Website Builder:** Developed a modular monorepo for reusable components, streamlining project deployments for diverse use cases.
+
+**Beta Feature Development:** Delivered impactful features for high-profile clients, including Netflix’s award-winning Bridgerton event.
 
 📫 Let’s Connect
 I’m always looking for ways to grow, collaborate, and create impactful solutions. Whether you’re here to chat about tech, music, or life in NYC, let’s connect!
