@@ -42,7 +42,7 @@ If you're building a platform that values velocity, expression, and bold UX thin
 
 <!-- badges -->
 [![Portfolio](https://img.shields.io/badge/website-lcdigital.io-black?style=flat&logo=firefox-browser&logoColor=white)](https://lcdigital.io/)
-[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=flat&logo=read-the-docs&logoColor=white)](https://github.com/andrewmorrisondev/resume/raw/main/andy-morrison-resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-blue?style=flat&logo=read-the-docs&logoColor=white)](https://github.com/andrewmorrisondev/resume)
 [![LinkedIn](https://img.shields.io/badge/linkedin-profile-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andy-morrison-b94945246/)
 
 ---
