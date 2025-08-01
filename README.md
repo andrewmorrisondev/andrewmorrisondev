@@ -1,6 +1,6 @@
 # andy.me
 
-**I build interfaces that demand attention.**  
+## **I build interfaces that demand attention.**
 From experimental stages to pixel-perfect production, I craft immersive, high-fidelity digital experiences for screens of every shape.
 
 I’m a frontend engineer with a creative soul and a cinematic edge—designing UI that *feels* like something.
