@@ -1,34 +1,49 @@
-<h2 align="center">Hi there, I'm andy 👋 – A NYC-based Software Engineer & Creator 🛠️🎶</h2> <h3 align="center"> From mixology to debugging, I’ve always had a knack for crafting memorable experiences, whether behind the bar or behind the keyboard. My journey from bartender at the charmingly unique Smith & Mills to a full-fledged software engineer has shaped me into a creative problem-solver with a human touch. </h3>
+# andy.me
 
-🍸 A Spirited Beginning
+**I build interfaces that demand attention.**  
+From experimental stages to pixel-perfect production, I craft immersive, high-fidelity digital experiences for screens of every shape.
 
-Before diving into the world of tech, I honed my communication skills in the hospitality industry, where I mastered the art of connecting with people over oysters, gin martinis, and heartfelt conversations. This foundation has carried over into my tech career, where understanding user needs and building empathetic solutions are central to my work.
+I’m a frontend engineer with a creative soul and a cinematic edge—designing UI that *feels* like something.
 
-💻 Technical Toolkit
+---
 
-I’ve built a versatile technical skill set that empowers me to bring ideas to life efficiently and effectively. Some highlights include:
+### CURRENTLY  
+🛠 **Frontend Engineer** @ [Little Cinema Digital](https://lcdigital.io/)  
+🎞 Building web platforms that blend storytelling with interactivity.
 
-**Frontend:** TypeScript, React, Redux, SCSS, Tailwind CSS
+We build virtual premieres for studios like HBO, Amazon, and Netflix—experiences that blur the line between live broadcast and web technology. I help shape the frontend infrastructure behind it all, collaborating across disciplines to deliver real-time, high-pressure creative tools at scale.
 
-**Backend:** Node.js, Express.js, Ruby on Rails
+---
 
-**Databases:** PostgreSQL, MongoDB
+### TECH STACK  
+> **TypeScript-first. Performance-obsessed. Design-aligned.**
 
-**Testing & Debugging:** RSpec, Jasmine, Capybara
+- 🧠 **React**, **Next.js**, **React Native**, **Redux**
+- 🎨 **Figma**, **Tailwind**, **Framer Motion**, **GSAP**, **Storybook**
+- 🚀 **GraphQL**, **Relay**, **REST**, **WebSockets**, **tRPC**
+- 🧹 **RayCast**, **Zod**, **Vite**, **Webpack**, **Nx**, **Monorepo orchestration**
+- 📦 **Prisma**, **PostgreSQL**
+- 🧪 **Jest**, **Playwright**
+- 💬 Bonus: strong design instincts, animation systems, creative tooling
 
-**APIs & Tools:** REST APIs, Postman, Axios, Git
+---
 
-**Other:** SQL, Markdown, Notion, Trello, Slack
+### PHILOSOPHY  
+I ship fast, obsess over the details, and write code that communicates.  
+I believe frontend engineers are designers, too—and that great UX starts at the component level.
 
-🚀 What Drives Me
+> I don’t just “build pages”—I construct moments, systems, tools, and emotional beats that move people. Whether it's a cinematic livestream experience or a modular editor for dynamic content, I think in **interaction**, not just layout.
 
-I thrive on solving complex problems, simplifying the user experience, and making technology accessible to everyone. My experience spans developing scalable solutions, optimizing internal processes, and enhancing cross-team collaboration.
+---
 
-🌟 Key Projects
+### LOOKING AHEAD  
+I'm currently exploring opportunities on web teams where **impact** beats process and **execution** trumps speculation.  
+If you're building a platform that values velocity, expression, and bold UX thinking—I’m listening.
 
-**Custom Website Builder (xulf):** Developed a modular monorepo for reusable components, streamlining project deployments for diverse use cases.
+<!-- badges -->
+[![Portfolio](https://img.shields.io/badge/website-lcdigital.io-black?style=flat&logo=firefox-browser&logoColor=white)](https://lcdigital.io/)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=flat&logo=read-the-docs&logoColor=white)](https://github.com/andrewmorrisondev/resume/raw/main/andy-morrison-resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/linkedin-profile-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andy-morrison-b94945246/)
 
-**Beta Feature Development:** Delivered impactful features for high-profile clients, including Netflix’s award-winning Bridgerton event.
+---
 
-📫 Let’s Connect
-I’m always looking for ways to grow, collaborate, and create impactful solutions. Whether you’re here to chat about tech, music, or life in NYC, let’s connect!
